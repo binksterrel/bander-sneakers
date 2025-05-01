@@ -16,7 +16,7 @@ error_reporting(E_ALL);
 // Configuration de la base de données
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
-define('DB_PASS', 'Terrel21');
+define('DB_PASS', 'root');
 define('DB_NAME', 'bander_sneakers');
 
 // Configuration du site
