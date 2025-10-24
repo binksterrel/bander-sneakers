@@ -131,7 +131,6 @@ bander-sneakers/
 ├── chat-api.php           # API pour le chat
 ├── chat-submit.php        # Soumission des messages de chat
 ├── checkout.php           # Processus de paiement
-├── compote.php            # [À vérifier : possible faute de frappe]
 ├── contact.php            # Page de contact
 ├── enfants.php            # Section enfants
 ├── faq.php                # Page FAQ
@@ -210,4 +209,4 @@ Ce projet est protégé par des droits d'auteur. Tous droits réservés.
 
 ---
 
-© 2023-2025 Bander-Sneakers. Tous droits réservés.
+© 2025 Bander-Sneakers. Tous droits réservés.
