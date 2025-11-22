@@ -201,7 +201,7 @@ Pour toute question ou assistance concernant l'installation ou l'utilisation de 
 
 - Email: 43020094@parisnanterre.fr
          43004280@parisnanterre.fr
-- Site web: http://localhost/bander-sneakers
+- Site web: http://localhost/bander-sneakers - https://bander-sneakers.kesug.com
 
 ## 📄 Licence
 
