@@ -7,6 +7,7 @@ Bander-Sneakers est une plateforme e-commerce complète dédiée à la vente de 
 ### Côté Client
 - Catalogue de sneakers avec filtrage avancé (marque, catégorie, prix, etc.)
 - Système de recherche performant
+- Système de Recommandation IA : Suggestions intelligentes de produits ("Les clients ont aussi acheté" & "Basé sur les favoris") calculées en temps réel selon le comportement des utilisateurs.
 - Pages produits détaillées avec galerie d'images
 - Système d'avis et de notation des produits
 - Panier d'achat interactif avec gestion des quantités
