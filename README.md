@@ -66,6 +66,8 @@ mysql -u [utilisateur] -p bander_sneakers < dump.sql
 - N'oubliez pas de changer le mot de passe après la première connexion!
 
 ## 📁 Structure du projet
+
+```
 bander-sneakers/
 ├── admin/                 # Panneau d'administration
 │   ├── assets/            # Ressources admin (CSS, JS)
@@ -165,6 +167,7 @@ bander-sneakers/
 ├── wishlist.php           # Liste de souhaits
 ├── wishlist-add.php       # Ajout à la liste de souhaits
 └── wishlist-remove.php    # Suppression de la liste de souhaits
+```
 
 ## 🔒 Sécurité
 
