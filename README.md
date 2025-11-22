@@ -34,6 +34,7 @@ Bander-Sneakers est une plateforme e-commerce complète dédiée à la vente de 
 - **Frontend**: HTML5, CSS3, JavaScript
 - **Base de données**: MySQL
 - **Outils supplémentaires**:
+  - Intelligence Artificielle: Algorithmes d'analyse comportementale (Cross-selling & Wishlist matching)
   - Système de chat en temps réel
   - Système de notifications
   - PHPMailer pour l'envoi d'emails
